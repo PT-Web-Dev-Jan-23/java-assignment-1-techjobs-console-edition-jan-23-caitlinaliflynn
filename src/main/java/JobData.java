@@ -111,9 +111,6 @@ public class JobData {
                 }
             }
 
-
-
-
         }
         return jobs;
     }
